@@ -139,7 +139,6 @@ class BasicCalculator {
     this.value *= operand;
     return this;
   }
-  // ... other operations go here ...
 }
 
 let v = new BasicCalculator(2)
